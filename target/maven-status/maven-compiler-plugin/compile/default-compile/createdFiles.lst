@@ -1,0 +1,4 @@
+com/example/crud/service/ItemService.class
+com/example/crud/CrudApplication.class
+com/example/crud/model/Item.class
+com/example/crud/controller/ItemController.class
